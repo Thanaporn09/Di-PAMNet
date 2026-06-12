@@ -1,4 +1,4 @@
-# [Di-PAMNet])
+# Di-PAMNet
 
 Official implementation of **Di-PAMNet: Lesion-Aware Axis-Decomposed Quantized Memory for Robust 3D Pancreatic Tumor Segmentation under Clinical Distribution Shift**.
 
